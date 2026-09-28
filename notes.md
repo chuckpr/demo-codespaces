@@ -12,7 +12,7 @@
 
 [https://github.com/jupyter-ai-contrib/jupyter-server-mcp](https://github.com/jupyter-ai-contrib/jupyter-server-mcp)
 
-`pixi add  jupyter-server-mcp jupyter-ai-tools jupyterlab-commands-toolkit jupyter-collaboration`
+`pixi add  jupyter-server-mcp jupyter-ai-tools jupyterlab-commands-toolkit jupyter-collaboration jupyter-ai`
 
 `claude mcp add jupyter-mcp -- uvx --from jupyter-server-mcp jupyter-server-mcp-proxy`
 
